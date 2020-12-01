@@ -15,6 +15,8 @@ If you use the software and find it useful please drop a line to the author.
 
 The software is written in IDL and should be able to run in IDL6.0 or higher.
 
+The software is distributed under creative commons license 4.0 
+
 The original version of the software is described in:
 * Hueso et al. Icarus (2019), doi:10.1016/j.icarus.2009.05.004 
 
