@@ -30,5 +30,5 @@ Different versions of the software have been used in several publications includ
 * Iñurrigarro et al., Icarus, doi: 10.1016/j.icarus.2019.113475
 
 The software has been shared openly in the past with other research teams including
-Pedro Machado's team at the Observatory of Lisbon.
+Pedro Machado's team at the Observatory of Lisbon and is available here for other users
 
