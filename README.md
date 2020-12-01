@@ -10,7 +10,7 @@ PICV was created by Dr. Ricardo Hueso at UPV/EHU as a software tool to retrieve 
 in images of planetary objects with atmospheres by analyzing the displacement of common regions
 found in images separated by a given amount of time.
 
-Questions about the use of the software can be issued to ricardo.hueso@ehu.eus
+Questions about the use of the software can be send to ricardo.hueso@ehu.eus
 If you use the software and find it useful please drop a line to the author.
 
 The software is written in IDL and should be able to run in IDL6.0 or higher.
